@@ -3,7 +3,7 @@ CRM ((Customer Relationship Management), it is a sipmle application that allows 
 commands (Create, Read, Update, Delete) with all functionality to do this operations.  
 
 ## Programing Languages, Frameworks and Libraries used:
-HTML, CSS, Python, JavaScript,BootStrap , MySQL
+HTML, Python, BootStrap, MySQL
 
 ## Data Base:
 SQLITE
